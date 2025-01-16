@@ -1,4 +1,4 @@
-# Haptics
+# Task Manager
 
 ## Inspired by <a href="https://medium.com/@mhamdouchi">Mohamed Hamdouchi</a>
 
